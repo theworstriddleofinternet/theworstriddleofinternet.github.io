@@ -1,2 +1,2 @@
-# https://theworseriddleofinternet.github.io
+# https://theworstriddleofinternet.github.io
 theworseriddleofinternet
