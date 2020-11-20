@@ -26,7 +26,8 @@ body {
     color: rgb(0, 0, 0);
 }
 
-.dropdown-content {
+.dropdown-content { 
+    
     display: none;
     position: absolute;
     background-color: rgb(194, 218, 255);
