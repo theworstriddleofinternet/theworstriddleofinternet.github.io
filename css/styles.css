@@ -128,8 +128,13 @@ footer {
     text-align: center;
     border: 2px solid #219ebc;
     border-bottom: 0;
+    text-align: -webkit-center;
 }
+table{
+    width: 50vw;
+   text-align: center;
 
+}
 @media (max-width: 600px) {
     section {
         -webkit-flex-direction: column;
