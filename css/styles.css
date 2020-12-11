@@ -130,10 +130,15 @@ footer {
     border-bottom: 0;
     text-align: -webkit-center;
 }
-table{
-    width: 50vw;
-   text-align: center;
 
+.link{
+    font-size: 1vw;
+    text-align: center;
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    border-spacing: 2px;
+    border-color: grey;
 }
 @media (max-width: 600px) {
     section {
@@ -148,5 +153,19 @@ table{
         width: 10vw;
         height: 10vw;
 
+    }
+    .link{
+        font-size: 3vw;
+        text-align: center;
+        display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    border-spacing: 2px;
+    border-color: grey;
+    }
+    table{
+        width: 20vw;
+       text-align: center;
+    
     }
 }
