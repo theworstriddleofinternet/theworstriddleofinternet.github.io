@@ -83,13 +83,13 @@ section {
     text-decoration: none;
         cursor:text ;
         
-    color: rgb(0, 0, 0);;
+    color: rgb(0, 0, 0);
 }
 .secret1{
     text-decoration: none;
         cursor: pointer ;
         
-    color: rgb(0, 0, 0);;
+    color: rgb(0, 0, 0);
 }
 .icon{
     float: middle;
@@ -103,7 +103,7 @@ article {
     -ms-flex: 3;
     flex: 3;*/
     
-    color: rgb(0, 0, 0);;
+    color: rgb(0, 0, 0);
     padding: 10px;
 }
 .button {
